@@ -13,7 +13,7 @@ const busy = [
         const endTime = new Date().setHours(21, 0, 0, 0);
         const timeSlots = [];
         let currentTime = startTime
-        while (currentTime < endTime) {
+        while (currentTime+ 30 * 60000 <= endTime) {
             const startSlot = new Date(currentTime);
             const endSlot = new Date(currentTime + 30 * 60000);
             let isSlotAvailable = true;
