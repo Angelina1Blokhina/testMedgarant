@@ -20,4 +20,4 @@ const busy = [
 
 ### Результат выполнения
 
-![image](https://github.com/Angelina1Blokhina/testMedgarant/assets/64483372/e7950f48-151d-4158-b740-ec8c574d937c)
+![image](https://github.com/Angelina1Blokhina/testMedgarant/assets/64483372/e69ac3d4-19e0-433a-8087-11daabf02d19)
